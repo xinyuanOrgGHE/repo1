@@ -14,3 +14,5 @@ if (typeof global.window.define == 'function' && global.window.define.amd) {
 } else if (global.window) {
   global.window.jwt_decode = jwt_decode;
 }
+
+testing
