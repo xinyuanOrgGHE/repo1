@@ -16,3 +16,4 @@ if (typeof global.window.define == 'function' && global.window.define.amd) {
 }
 
 testing
+testing2
